@@ -100,6 +100,11 @@ body{
     display: block;
 }
 
+.credits a{
+   color: #08007d;
+   font: 20px;
+}
+
 @keyframes mudarImagem {
     from{
         opacity: 0.85;
